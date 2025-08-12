@@ -16,7 +16,7 @@ terraform {
 provider "site24x7" {
   // (Required) The client ID will be looked up in the SITE24X7_OAUTH2_CLIENT_ID
   // environment variable if the attribute is empty or omitted.
-  oauth2_clsient_id = "1000.URX2GM9SN359J8H5EZPPH0U3OAZ7UY"
+  oauth2_clsient_id = "1000.URX2GM9SN359J8H5EZPPH0U3OASSSS"
 
 
   // (Optional) The access token will be looked up in the SITE24X7_OAUTH2_ACCESS_TOKEN
